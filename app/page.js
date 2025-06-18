@@ -46,10 +46,9 @@ export default function Home() {
           ilan vermek artık çok kolay!
         </p>
         <a
-          href="/login"
           className="mt-6 inline-block bg-blue-600 text-white px-8 py-3 rounded-full text-sm sm:text-base hover:bg-blue-700 transition"
         >
-          Hemen Ücretsiz İlan Ver
+          Kıbrıs Pazar çok yakında sizlerle!
         </a>
       </section>
 
