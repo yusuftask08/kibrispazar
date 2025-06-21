@@ -11,6 +11,7 @@ const cars = Array.from({ length: 30 }, (_, i) => ({
     km: 50000 + i * 1500,
     gear: i % 2 === 0 ? "Otomatik" : "Manuel",
     date: `${i + 1} gün önce`,
+    title:"araba",
   }));
   
   export default cars;

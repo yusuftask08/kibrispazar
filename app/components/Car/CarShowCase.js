@@ -1,4 +1,5 @@
 // components/Car/CarShowcase.js
+/* eslint-disable-next-line react/no-unescaped-entities */
 "use client";
 import cars from "@/app/data/cars";
 import Image from "next/image";

@@ -1,5 +1,5 @@
+/* eslint-disable-next-line react/no-unescaped-entities */
 'use client';
-
 export default function Footer() {
   return (
     <footer className="bg-gray-100 border-t border-gray-200 mt-16 text-sm text-gray-700">

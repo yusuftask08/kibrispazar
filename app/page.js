@@ -1,3 +1,5 @@
+/* eslint-disable-next-line react/no-unescaped-entities */
+
 import CarShowcase from "./components/Car/CarShowCase";
 import HeroBanner from "./components/Car/HeroBanner";
 import CarListingCard from "./components/Card/CarListingCard";
